@@ -1,0 +1,3 @@
+/Users/erfanjahedi/Downloads/Warzone/cmake-build-debug/CMakeFiles/Comp_345.dir
+/Users/erfanjahedi/Downloads/Warzone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erfanjahedi/Downloads/Warzone/cmake-build-debug/CMakeFiles/rebuild_cache.dir

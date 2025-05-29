@@ -1,0 +1,58 @@
+GAME ENGINE: State transition to maploaded
+Logging COMMAND: 
+Saved Effect "Map successfully loaded"
+
+Logging COMMAND PROCESSOR: 
+Saved command :"loadmap"
+
+Logging COMMAND: 
+Saved Effect "Invalid command in the current game state."
+
+Logging COMMAND PROCESSOR: 
+Saved command :"loadmap asia"
+
+Logging COMMAND: 
+Saved Effect "Invalid Command"
+
+Logging COMMAND PROCESSOR: 
+Saved command :"j"
+
+Logging COMMAND: 
+Saved Effect "Invalid Command"
+
+Logging COMMAND PROCESSOR: 
+Saved command :"quit"
+
+Logging GAME ENGINE: 
+State transition to start
+
+Logging COMMAND: 
+Saved Effect "Invalid Command"
+
+Logging COMMAND PROCESSOR: 
+Saved command :"tournament -M Asia.map -P Agressive Benevolent Cheater -G 2 -D 20"
+
+Logging COMMAND: 
+Saved Effect "Invalid Command"
+
+Logging COMMAND PROCESSOR: 
+Saved command :"quit"
+
+Logging GAME ENGINE: 
+State transition to tournament
+
+Logging COMMAND: 
+Saved Effect "Tournament started"
+
+Logging COMMAND PROCESSOR: 
+Saved command :"tournament -M Asia.map -P Aggressive Benevolent Neutral -G 2 -D 20"
+
+Logging GAME ENGINE: 
+State transition to tournament
+
+Logging COMMAND: 
+Saved Effect "Tournament started"
+
+Logging COMMAND PROCESSOR: 
+Saved command :"tournament -M Asia.map -P Aggressive Neutral -G 3 -D 20"
+

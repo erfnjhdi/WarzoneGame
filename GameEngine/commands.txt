@@ -1,0 +1,10 @@
+loadmap asia.map
+validatemap
+addplayer arjun
+addplayer vasu
+addplayer mayank
+addplayer parth
+addplayer mihir
+addplayer akshay
+addplayer mahesh
+gamestart
